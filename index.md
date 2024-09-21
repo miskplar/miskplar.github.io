@@ -8,4 +8,6 @@
 
 [和歌集](waka.md)
 
+[社交平台账号 / SNSアカウント / Contact Me](contact.md)
+
 ![whitespace](assets/imgs/white_space_jp_2.jpg "ここから出るのはしない")
