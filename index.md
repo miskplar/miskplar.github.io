@@ -8,4 +8,4 @@
 
 [和歌集](waka.md)
 
-![whitespace](assets/imgs/white_space_jp_2.jpg "ここから出るはしない")
+![whitespace](assets/imgs/white_space_jp_2.jpg "ここから出るのはしない")
