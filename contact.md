@@ -5,8 +5,10 @@ QQ: 962550065
 
 WeChat: miskplar
 
-bilibili: @miskplar
+bilibili: [@miskplar](https://space.bilibili.com/386404441)
 
-X(旧Twitter): @miskplar
+ニコ動: [73006325](https://www.nicovideo.jp/user/73006325)
+
+X(旧Twitter): [@miskplar](https://x.com/Miskplar)
 
 Discord: @miskplar
