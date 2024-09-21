@@ -7,3 +7,5 @@
 [小作文集](sakubun.md)
 
 [和歌集](waka.md)
+
+![whitespace](assets/imgs/white_space_jp_2.jpg "ここから出るはしない")
