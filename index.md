@@ -6,6 +6,8 @@
 
 [小作文集](sakubun.md)
 
+[魔怔集](kichigai_confirm.md)
+
 [和歌集](waka.md)
 
 [社交平台账号 / SNSアカウント / Contact Me](contact.md)
