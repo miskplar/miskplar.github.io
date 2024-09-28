@@ -1,0 +1,113 @@
+avatar:
+  url: /images/avatar.png
+  rounded: true
+  opacity: 1
+
+banner:
+  enable: true
+  title: 四畳半主義者
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+social:
+  - name: GitHub
+    link: https://github.com/miskplar
+    icon: ri:github-line
+    color: "#6e5494"
+  - name: 哔哩哔哩
+    link: https://space.bilibili.com/386404441
+    icon: ri:bilibili-line
+    color: "#FF8EB3"
+  - name: Niconico
+    link: https://www.nicovideo.jp/user/73006325
+    icon: ri:tv-line
+    color: "#666666"
+  - name: Twitter
+    link: https://x.com/Miskplar
+    icon: ri:twitter-x-fill
+    color: "#439BFF"
+reward:
+  enable: false
+pages:
+  #  - name: 小伙伴们
+  #    url: /links
+    #    icon: ri:genderless-line
+    #    color: dodgerblue
+notice:
+  enable: false
+  content: 
+comment:
+  enable: true
+  tips:
+    - 若您想及时得到回复提醒，建议跳转 GitHub Issues 评论。
+    - 若没有本文 Issue，您可以使用 Comment 模版新建。
+  candidates:
+#    - valine
+    - utterances
+utterances:
+  enable: true
+#  src: https://utteranc.es/client.js
+  repo: miskplar/miskplar.github.io
+  issue-term: pathname
+  # label: comment
+  theme: github-light
+#  crossorigin: anonymous
+
+footer:
+  since: 2024
+  live_time:
+    enable: true
+    prefix: 这个博客运行了
+    suffix: ヾ(･ω･*)ﾉ
+    start_time: "2024-09-19T12:00:00"
+
+wordcloud:
+  enable: true
+
+codeblock:
+  copy_btn: true
+katex:
+  copy_tex: true
+  global: false
+
+#默哀
+mourn:
+  enable: true
+  days:
+    - "4-5"
+    - "12-13"
+    - "9-18"
+    - "5-12"
+    - "7-7"
+
+head:
+  css:
+    fonts: 
+      - https://fonts.loli.net/css?family=Saira
+      - https://fonts.loli.net/css?family=JetBrains%20Mono
+      - https://fonts.loli.net/css?family=Comic%20Sans%20MS
+    nicoicon:
+      - /css/nicoicon.css
+
+font:
+  cdn:
+    enable: true
+    lib:
+      - https://fonts.loli.net/css?family=Saira
+      - https://fonts.loli.net/css?family=JetBrains%20Mono
+      - https://fonts.loli.net/css?family=Comic%20Sans%20MS
+  serif:
+    family: '''Songti SC'', ''Noto Serif SC'', STZhongsong, STKaiti, KaiTi, Roboto, serif'
+    weight: 900
+  sans_serif:
+    family: '''Saira'', ''PingFang SC'', ''Microsoft YaHei'', Roboto, Arial, sans-serif'
+    weight: 400
+  monospace:
+    family: '''JetBrains Mono'', ''Source Code Pro'', ''Courier New'', Courier, Consolas, Monaco, monospace'
+
+
