@@ -2,6 +2,8 @@
 ==========
 存放一些写过的碎碎念小作文。
 
+2024/11/05 [不玩SNS了。](sakubun/snsyameta.md)
+
 2024/10/27 [創作者ならではの気合い、熱意、そして狂気。](sakubun/sousakusya.md)
 
 2024/09/23 [关于被刺杀的这回事](sakubun/assassin.md)
