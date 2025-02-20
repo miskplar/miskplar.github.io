@@ -4,7 +4,7 @@
 
 みすくぷらーです。学生で、趣味で音MADを作っています。
 
-Latest:章节2:[我的四叠半物语](chapter2/menu.md)<br> 2025年2月 - 今天
+Latest:<br>章节2:[我的四叠半物语](chapter2/menu.md)<br> 2025年2月 - 今天
 
 章节1:[找自己](sakubun_confirm.md)<br> 2024年9月 - 2024年11月
 
