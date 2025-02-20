@@ -4,8 +4,10 @@
 
 みすくぷらーです。学生で、趣味で音MADを作っています。
 
-[小作文集](sakubun.md)<br>
-↑该系列主要反映至2024年11月为止的本人非常失常、抑郁、焦虑、痛苦的精神状态，带有大量负能内容，请谨慎选择是否阅读。
+Latest:章节2:[我的四叠半物语](chapter2/menu.md)<br> 2025年2月 - 今天
+
+章节1:[找自己](sakubun_confirm.md)<br> 2024年9月 - 2024年11月
+
 
 [魔怔集](kichigai_confirm.md)
 
@@ -13,4 +15,4 @@
 
 [社交平台账号 / SNSアカウント / Contact Me](contact.md)
 
-![whitespace](assets/imgs/white_space_jp_2.jpg "ここから出るのはしない")
+![reibansen](assets/imgs/reibansen.png "零番线")
