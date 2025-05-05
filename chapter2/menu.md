@@ -1,4 +1,4 @@
-#我的四叠半物语
+# 我的四叠半物语
 
 [序言](preface.md) <br>
 
@@ -7,3 +7,5 @@
 [着陆啦！！](land.md)<br>
 
 [第二周: Nerdtronics与ALI](week2.md)<br>
+
+[第三周：黄金周与大阪旅行](gwoosaka.md)<br>
