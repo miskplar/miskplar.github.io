@@ -1,17 +1,22 @@
 # Homepage
 
-我是Miskplar / 沙田。学生，音MAD爱好者，日语爱好者。
+Miskplar.
 
-みすくぷらーです。学生で、趣味で音MADを作っています。
+音MAD，铁道，城市规划，J-POP，Vocaloid, Hip-Hop，DTM，绘画，图寻，写作，日语与日本社会文化，都市传说，俄罗斯方块，Minecraft，电脑硬件DIY，数码产品，摄影爱好者。
 
-Latest:<br>章节2:[我的四叠半物语](chapter2/menu.md)<br> 2025年2月 - 今天
+2026年毕业于中山大学旅游学院会展经济与管理专业，不擅长学术。
 
-章节1:[找自己](sakubun_confirm.md)<br> 2024年9月 - 2024年11月
+没有拿到互联网offer的准互联网员工。
 
+------
 
-[魔怔集](kichigai_confirm.md)
+WIPs:
 
-[和歌集](waka.md)
+《刘浩翔不见了！》
+
+《八十天环游四叠半》
+
+《わたしのせいじゃないのに》
 
 [社交平台账号 / SNSアカウント / Contact Me](contact.md)
 
